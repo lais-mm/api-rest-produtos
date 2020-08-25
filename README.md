@@ -1,4 +1,4 @@
-<h1 align="center"> API REST Produtos :coffee: </h1>
+<h1 align="center"> API REST :coffee: </h1>
 <p align="center"> <strong> API REST </strong> para cadastro de produtos.  </p>
 
 ✍ API REST com Spring Boot & Swagger para cadastro de produtos. 
